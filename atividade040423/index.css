@@ -35,8 +35,15 @@ body{
   padding: 50px;
 }
 
+li {
+  display: inline-block;
+  margin-right: 50px;
+  margin-left: 50px;
+  color: #cdffff;
+}
+
 .space {
-  margin-top: 40px;
+  margin: 40px;
 }
 .stage {
   left: 0;
@@ -69,5 +76,4 @@ body{
   box-shadow: 0 0 10px 4px #ff1966;
   color: #ff1966;
 }
-
 
